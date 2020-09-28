@@ -59,7 +59,7 @@ trigram <- function(input_words){
 
 - Shiny App
 
-´The shiny app will take a character string from user input to predict the second or third word.
+´The shiny app will take a character string from user input to predict the first or second  word.
 - Click on predict button, to get the next word.
 
 ![alt text](app.png)
